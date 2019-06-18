@@ -87,6 +87,7 @@ Docs
 ### Others
 
 - https://github.com/lorin/resilience-engineering
+- https://increment.com/on-call
 
 # Really Interesing and Inspirational Stuff
 
@@ -103,10 +104,15 @@ Docs
 
 "Focus on the situational aspects of a failure's mechanism and the decision-making process of individuals proximite to the failure!" - John Allspaw
 
-"The only way to find out if you can trust somebody is to trust them!"
+"The only way to find out if you can trust somebody is to trust them!" - Ernest Hemingway
 
 "The nines don't matter if users aren't happy" - Charity Majors
 
 ### People to follow on Twitter
 
 https://twitter.com/dvkanchev/lists/sre-blameless-culture
+
+### Postmortem templates and examples
+
+- https://docs.google.com/document/d/1iaEgF0ICSmKKLG3_BT5VnK80gfOenhhmxVnnUcNSQBE/edit
+- https://github.com/dastergon/postmortem-templates
