@@ -112,7 +112,7 @@ Docs
 
 https://twitter.com/dvkanchev/lists/sre-blameless-culture
 
-### Postmortem templates and examples
+# Postmortem templates and examples
 
 - https://docs.google.com/document/d/1iaEgF0ICSmKKLG3_BT5VnK80gfOenhhmxVnnUcNSQBE/edit
 - https://github.com/dastergon/postmortem-templates
