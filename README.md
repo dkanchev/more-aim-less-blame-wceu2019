@@ -114,7 +114,12 @@ https://twitter.com/dvkanchev/lists/sre-blameless-culture
 
 # Postmortem templates and examples
 
+### Postmortem Checklist
+
 - https://docs.google.com/document/d/1iaEgF0ICSmKKLG3_BT5VnK80gfOenhhmxVnnUcNSQBE/edit
+
+### Example Postmortems
+
 - https://github.com/dastergon/postmortem-templates
 - https://docs.google.com/document/d/18fTHKUt2xodW5LINNk0aJ7EW8AImVxIbHGYLWcofs5o/edit?usp=sharing
 - https://status.cloud.google.com/incident/cloud-networking/19009
